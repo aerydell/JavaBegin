@@ -1,5 +1,5 @@
-float percentage = 87.36189;
-float current = 87.36189;
+float percentage = 87.468192439;
+float current = percentage;
 
 percentage *= 10;
 percentage = (int)percentage;
@@ -9,7 +9,7 @@ current = (int)current;
 current /= 100;
 current -= percentage;
 
-if (current >= .05){
+if (current > .04999){
   percentage += .1;
 }
 println(percentage);
