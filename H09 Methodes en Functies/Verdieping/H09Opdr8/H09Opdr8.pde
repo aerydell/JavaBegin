@@ -5,7 +5,7 @@ void setup() {
   tekenDriehoek(10, 10, 50, 153, 450, 130);
 }
 
-void paint() {
+void draw() {
   
 }
 

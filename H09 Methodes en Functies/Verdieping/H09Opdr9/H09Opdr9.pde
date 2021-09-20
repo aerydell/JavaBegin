@@ -5,7 +5,7 @@ void setup() {
   tree();
 }
 
-void paint() {
+void draw() {
   
 }
 

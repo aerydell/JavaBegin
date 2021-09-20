@@ -5,7 +5,7 @@ void setup() {
   wall();
 }
 
-void paint() {
+void draw() {
 }
 
 void brick(int x, int y) {

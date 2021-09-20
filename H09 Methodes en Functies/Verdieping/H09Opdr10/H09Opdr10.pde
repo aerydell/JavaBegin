@@ -5,7 +5,7 @@ void setup() {
   forest();
 }
 
-void paint() {
+void draw() {
   
 }
 
